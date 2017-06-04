@@ -33,4 +33,3 @@ axios.get(URL+'/olympic/2016/ranking/42')
 
 
 
-
